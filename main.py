@@ -12,7 +12,7 @@ def main():
     # Do not delete the return statement
     ########################################
     """
-    print(fahrenheit)
+    print("fahrenheit:", fahrenheit)
     return celsius, fahrenheit
 
 
